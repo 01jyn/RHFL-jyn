@@ -1,0 +1,5 @@
+2023-02-10 21:53:47,126 - HHF.py[line:150] - INFO: Random Seed and Server Config
+2023-02-10 21:53:47,127 - HHF.py[line:165] - INFO: Initialize Participants' Data idxs and Model
+2023-02-10 21:53:47,129 - HHF.py[line:171] - INFO: {0: array([11841, 19602, 45519, ..., 47278, 37020,  2217]), 1: array([28921, 11971, 15919, ..., 46749, 41193, 22418]), 2: array([36011, 11643, 45353, ..., 42473, 40043, 26550]), 3: array([ 8777,  6584, 42707, ..., 25134, 39808, 32076])}
+2023-02-10 21:53:47,275 - HHF.py[line:174] - INFO: Load Participants' Models
+2023-02-10 21:53:48,216 - HHF.py[line:182] - INFO: Initialize Public Data Parameters
